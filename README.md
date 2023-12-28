@@ -1,7 +1,7 @@
 
 # Hyggesil 프로젝트 소개
 
-- 서울 지역 한정 호캉스 예약 호스팅 사이트 구현 프로젝트
+- 서울 지역 호캉스 예약 호스팅 사이트 구현 프로젝트
 - 초기 세팅부터 백엔드와 협업하여 호텔 데이터, 예약 가능 유무 및 결제 기능구현
 
 ## 개발 인원
@@ -11,7 +11,7 @@
 
 ## 적용기술
 
-- FE : React.js , Styled-component , Github
+- FE : React.js, Styled-component, Github
 
 ## 주요 기능
 
