@@ -1,0 +1,84 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "그랜드 인터컨티넨탈 서울 팔래스",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 37.5642135,
+        "lng": 127.0016985
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1
+    },
+    {
+      "id": 2,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 37.5742135,
+        "lng": 127.0219085
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1
+    },
+    {
+      "id": 3,
+      "name": "롯데호텔 서울",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 37.5693238,
+        "lng": 127.003985
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1
+    },
+    {
+      "id": 4,
+      "name": "JW 메리어트 호텔 서울",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 37.5622345,
+        "lng": 127.0023985
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1
+    },
+    {
+      "id": 5,
+      "name": "프레지던트 호텔",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 37.5654135,
+        "lng": 127.0012985
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1
+    }
+  ]
+}

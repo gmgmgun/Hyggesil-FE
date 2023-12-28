@@ -1,0 +1,129 @@
+{
+  "divisions": [
+    {
+      "division": "강남구",
+      "longitude": 127.049555555555,
+      "latitude": 37.514575
+    },
+    {
+      "division": "강동구",
+      "longitude": 127.12586388888801,
+      "latitude": 37.527366666666602
+    },
+    {
+      "division": "강북구",
+      "longitude": 127.027719444444,
+      "latitude": 37.636955555555502
+    },
+    {
+      "division": "강서구",
+      "longitude": 126.851675,
+      "latitude": 37.548155555555503
+    },
+    {
+      "division": "관악구",
+      "longitude": 126.953844444444,
+      "latitude": 37.475386111111099
+    },
+    {
+      "division": "광진구",
+      "longitude": 127.084533333333,
+      "latitude": 37.535738888888801
+    },
+    {
+      "division": "구로구",
+      "longitude": 126.88959722222199,
+      "latitude": 37.49265
+    },
+    {
+      "division": "금천구",
+      "longitude": 126.904197222222,
+      "latitude": 37.449108333333299
+    },
+    {
+      "division": "노원구",
+      "longitude": 127.058388888888,
+      "latitude": 37.651461111111097
+    },
+    {
+      "division": "도봉구",
+      "longitude": 127.049522222222,
+      "latitude": 37.665833333333303
+    },
+    {
+      "division": "동대문구",
+      "longitude": 127.042141666666,
+      "latitude": 37.571625
+    },
+    {
+      "division": "동작구",
+      "longitude": 126.941575,
+      "latitude": 37.509655555555497
+    },
+    {
+      "division": "마포구",
+      "longitude": 126.910530555555,
+      "latitude": 37.560705555555501
+    },
+    {
+      "division": "서대문구",
+      "longitude": 126.938897222222,
+      "latitude": 37.576366666666601
+    },
+    {
+      "division": "서초구",
+      "longitude": 127.034811111111,
+      "latitude": 37.480786111111101
+    },
+    {
+      "division": "성동구",
+      "longitude": 127.039,
+      "latitude": 37.560611111111101
+    },
+    {
+      "division": "성북구",
+      "longitude": 127.020333333333,
+      "latitude": 37.586383333333302
+    },
+    {
+      "division": "송파구",
+      "longitude": 127.107930555555,
+      "latitude": 37.511755555555503
+    },
+    {
+      "division": "양천구",
+      "longitude": 126.868708333333,
+      "latitude": 37.5142305555555
+    },
+    {
+      "division": "영등포구",
+      "longitude": 126.898341666666,
+      "latitude": 37.523611111111101
+    },
+    {
+      "division": "용산구",
+      "longitude": 126.967522222222,
+      "latitude": 37.536094444444402
+    },
+    {
+      "division": "은평구",
+      "longitude": 126.931241666666,
+      "latitude": 37.599969444444397
+    },
+    {
+      "division": "종로구",
+      "longitude": 126.98164166666599,
+      "latitude": 37.570377777777701
+    },
+    {
+      "division": "중구",
+      "longitude": 126.99964166666599,
+      "latitude": 37.561002777777702
+    },
+    {
+      "division": "중랑구",
+      "longitude": 127.094777777777,
+      "latitude": 37.603805555555503
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "그랜드 인터컨티넨탈 서울 팔래스",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 2,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "한솔스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 3,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "동민스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "그랜드 인터컨티넨탈 서울 팔래스",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 2,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "신라스테이 서대문",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 3,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 2,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 3,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 4,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 4,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 4,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "신라스테이 구로",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 1,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 2,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "신라스테이 역삼",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 3,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "한솔호텔",
+      "address": "서울 강남구 테헤란로 427 위워크",
+      "coordinate": {
+        "lat": 127.04854877116082,
+        "lng": 37.50526058929731
+      },
+      "price": "50000.00",
+      "guestMax": 1,
+      "bedrooms": 1,
+      "beds": 1,
+      "thumbNailUrl": "http://localhost/image.jpg",
+      "user_id": 1,
+      "area_id": 4,
+      "images": [
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "https://images.pexels.com/photos/261169/pexels-photo-261169.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      ]
+    }
+  ]
+}
