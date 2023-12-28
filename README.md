@@ -1,5 +1,6 @@
 
 # Hyggesil 프로젝트 소개
+![휘게실](https://github.com/gmgmgun/Hyggesil-FE/assets/65591303/6faa311a-4bf2-4afa-85f2-6ff9cdf30c6c)
 
 - 서울 지역 호캉스 예약 호스팅 사이트 구현 프로젝트
 - 초기 세팅부터 백엔드와 협업하여 호텔 데이터, 예약 가능 유무 및 결제 기능구현
